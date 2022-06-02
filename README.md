@@ -33,10 +33,10 @@ I am a Fullstack developer,
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- ![Shariq Mehmood's github stats](https://github-readme-stats.vercel.app/api?username=shariqmehmood&count_private=true&theme=radical&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
+ ![Shariq Mehmood's github stats](https://github-readme-stats.vercel.app/api?username=shariqmehmood&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
  
  
-  ![Areeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-dev&theme=radical&hide=css,html&show_icons=true&hide_border=true)
+  ![shariqmehmood top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariqmehmood&hide=css,html&show_icons=true&hide_border=true)
  
  
  
