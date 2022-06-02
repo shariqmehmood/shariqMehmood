@@ -36,7 +36,7 @@ I am a Fullstack developer,
  ![Shariq Mehmood's github stats](https://github-readme-stats.vercel.app/api?username=shariqmehmood&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
  
  
-  ![shariqmehmood top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariqmehmood&hide=css,html&show_icons=true&hide_border=true)
+  ![shariqmehmood top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariqmehmood&hide=css,html&show_icons=true&hide_border=false)
  
  
  
